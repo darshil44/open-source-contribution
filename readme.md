@@ -29,6 +29,9 @@ Are you new to the world of open source but eager to make your mark? Look no fur
 
 4. **Discover Opportunities:** Begin by immersing yourself in the repository. Take a journey through its contents to understand its structure and potential areas for improvement or contribution.
 
+   #### What is Opensource?
+   Overview :  Open source is a term that originally referred to open source software (OSS). Open source software is code that is designed to be publicly accessible—anyone can see, modify, and distribute the code as they see fit.
+
 #### Guidelines
 
 # koi BKL 🤡 hi hoga jo yha contribute nhi Krega . 🤑
